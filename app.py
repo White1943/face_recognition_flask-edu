@@ -8,6 +8,9 @@ from sklearn.neighbors import KNeighborsClassifier
 import pandas as pd
 import joblib
 
+# import pandas as pd
+# import joblib
+
 app = Flask(__name__)
 
 nimgs = 10
